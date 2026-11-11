@@ -1,5 +1,7 @@
 # 🎓 Student Management API with CI/CD Pipeline
 
+## render fixed### 
+
 A production-structured REST API built with **FastAPI** demonstrating clean architecture, comprehensive testing, and a complete CI/CD pipeline using **GitHub Actions** with automatic deployment to **Render**.
 
 > **Portfolio Project** — Perfect for freshers to showcase backend, testing, and DevOps skills.
